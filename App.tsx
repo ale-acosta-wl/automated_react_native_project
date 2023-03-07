@@ -77,7 +77,7 @@ function App(): JSX.Element {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Learn More">
-            Fisrt build from GitHub to Bitrise!
+            Build from GitHib to Bitrise.io!
           </Section>
         </View>
       </ScrollView>
